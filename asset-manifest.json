@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stroll-landing-page/static/css/main.8efaa458.css",
+    "main.js": "/stroll-landing-page/static/js/main.2d9073c8.js",
+    "static/media/instagram.png": "/stroll-landing-page/static/media/instagram.09762b1978ea92cf61bb.png",
+    "static/media/twitter.png": "/stroll-landing-page/static/media/twitter.cf93de875f54a3c981d1.png",
+    "static/media/tiktok.png": "/stroll-landing-page/static/media/tiktok.192507a7db94e2386856.png",
+    "static/media/map.png": "/stroll-landing-page/static/media/map.73948584a92a3fc87a6f.png",
+    "static/media/banner background.png": "/stroll-landing-page/static/media/banner background.457f1fc1d7c0dc508da5.png",
+    "static/media/stats wave.png": "/stroll-landing-page/static/media/stats wave.bca144078762b96c8f87.png",
+    "static/media/paw.png": "/stroll-landing-page/static/media/paw.19e8d039d52a54fc286b.png",
+    "static/media/facebook.png": "/stroll-landing-page/static/media/facebook.a771659bdf85a7e34d08.png",
+    "static/media/calendar.png": "/stroll-landing-page/static/media/calendar.cb75eba4d2db42b4bb32.png",
+    "static/media/shield.png": "/stroll-landing-page/static/media/shield.62670c1cedc34f563fa8.png",
+    "index.html": "/stroll-landing-page/index.html",
+    "main.8efaa458.css.map": "/stroll-landing-page/static/css/main.8efaa458.css.map",
+    "main.2d9073c8.js.map": "/stroll-landing-page/static/js/main.2d9073c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8efaa458.css",
+    "static/js/main.2d9073c8.js"
+  ]
+}
